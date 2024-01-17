@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangaWaru", "MangaWaru\MangaWaru\MangaWaru.csproj", "{B7FFD461-56C9-4DF6-BFE6-F82C9E70A536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangaWaru.Client", "MangaWaru\MangaWaru.Client\MangaWaru.Client.csproj", "{8FC44241-487D-4D0A-9E16-3DD3963D8C8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7FFD461-56C9-4DF6-BFE6-F82C9E70A536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FFD461-56C9-4DF6-BFE6-F82C9E70A536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FFD461-56C9-4DF6-BFE6-F82C9E70A536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FFD461-56C9-4DF6-BFE6-F82C9E70A536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FC44241-487D-4D0A-9E16-3DD3963D8C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC44241-487D-4D0A-9E16-3DD3963D8C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC44241-487D-4D0A-9E16-3DD3963D8C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC44241-487D-4D0A-9E16-3DD3963D8C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273F3F56-26FD-42F0-87BB-AF6D3A01DBC3}
+	EndGlobalSection
+EndGlobal
