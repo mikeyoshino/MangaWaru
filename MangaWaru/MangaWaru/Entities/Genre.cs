@@ -7,5 +7,6 @@
         public string? Slug { get; set; }
         public DateTime CreatedOn { get; set; }
         public string? Description { get; set; }
+        public ICollection<MangaGenre>? MangaGenres { get; set; }
     }
 }
